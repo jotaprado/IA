@@ -1,4 +1,4 @@
-# IA - Proyecto Académico
+# IA - Proyecto Académico Empresarial
 
 Bienvenido al repositorio del proyecto académico **IA**, donde exploraremos conceptos de Inteligencia Artificial mediante cursos prácticos implementados con Node.js.
 
